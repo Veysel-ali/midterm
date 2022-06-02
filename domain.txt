@@ -1,0 +1,141 @@
+
+      _____       _     _____                        _       _              
+     / ____|     | |   |  __ \                      (_)     (_)             
+    | (___  _   _| |__ | |  | | ___  _ __ ___   __ _ _ _ __  _ _______ _ __ 
+     \___ \| | | | '_ \| |  | |/ _ \| '_ ` _ \ / _` | | '_ \| |_  / _ \ '__|
+     ____) | |_| | |_) | |__| | (_) | | | | | | (_| | | | | | |/ /  __/ |   
+    |_____/ \__,_|_.__/|_____/ \___/|_| |_| |_|\__,_|_|_| |_|_/___\___|_|Version 2.1                                                                                                                                       
+Find interesting Subdomains and secrets hidden in page, folder, External Javascripts and GitHub 
+
+Searching for Inline Javascripts...
+Successfully got all the Inline Scripts.
+Searching for External Javascript links in page...
+Successfully got all the external js links.
+Finding secrets, cloud URLs, subdomains in all Javascript files...
+Searching completed...
+Got all the important, printing and/or saving...
+
+______________________Start of Results______________________
+____________________________________________________________
+
+Got some subdomains...
+Total Subdomains: 19
+about.facebook.com
+ar-ar.facebook.com
+bn-in.facebook.com
+de-de.facebook.com
+developers.facebook.com
+en-gb.facebook.com
+es-la.facebook.com
+fa-ir.facebook.com
+gu-in.facebook.com
+hi-in.facebook.com
+lookaside.internmc.facebook.com
+lookaside.facebook.com
+pa-in.facebook.com
+pay.facebook.com
+pixel.facebook.com
+portal.facebook.com
+ps-af.facebook.com
+secure.facebook.com
+www.facebook.com
+____________________________________________________________
+
+Found some secrets(might be false positive)...
+Total Possible Secrets: 5
+token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjU0MTgzNjcxLCJjYWxsc2l0ZV9pZCI6MzgxMjI5MDc5NTc1OTQ2fQ== | Inline
+token":"AXjlio0pbJESNhbGVo4" | Inline
+token":"AQ4VP_uA4MgBwa47Kzc" | Inline
+token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjU0MTgzNjcxLCJjYWxsc2l0ZV9pZCI6MzgxMjI5MDc5NTc1OTQ2fQ==" | Inline
+token=h.iframeToken | https://static.xx.fbcdn.net/rsrc.php/v3/y8/r/QHkAp5QzX_9.js?_nc_x=Ij3Wp8lg5Kz
+
+_______________________End of Results_______________________
+
+
+      _____       _     _____                        _       _              
+     / ____|     | |   |  __ \                      (_)     (_)             
+    | (___  _   _| |__ | |  | | ___  _ __ ___   __ _ _ _ __  _ _______ _ __ 
+     \___ \| | | | '_ \| |  | |/ _ \| '_ ` _ \ / _` | | '_ \| |_  / _ \ '__|
+     ____) | |_| | |_) | |__| | (_) | | | | | | (_| | | | | | |/ /  __/ |   
+    |_____/ \__,_|_.__/|_____/ \___/|_| |_| |_|\__,_|_|_| |_|_/___\___|_|Version 2.1                                                                                                                                       
+Find interesting Subdomains and secrets hidden in page, folder, External Javascripts and GitHub 
+
+Searching for Inline Javascripts...
+Successfully got all the Inline Scripts.
+Searching for External Javascript links in page...
+Successfully got all the external js links.
+Finding secrets, cloud URLs, subdomains in all Javascript files...
+Searching completed...
+Got all the important, printing and/or saving...
+
+______________________Start of Results______________________
+____________________________________________________________
+
+Got some subdomains...
+Total Subdomains: 19
+about.facebook.com
+ar-ar.facebook.com
+bn-in.facebook.com
+de-de.facebook.com
+developers.facebook.com
+en-gb.facebook.com
+es-la.facebook.com
+fa-ir.facebook.com
+gu-in.facebook.com
+hi-in.facebook.com
+lookaside.internmc.facebook.com
+lookaside.facebook.com
+pa-in.facebook.com
+pay.facebook.com
+pixel.facebook.com
+portal.facebook.com
+ps-af.facebook.com
+secure.facebook.com
+www.facebook.com
+
+_______________________End of Results_______________________
+
+
+      _____       _     _____                        _       _              
+     / ____|     | |   |  __ \                      (_)     (_)             
+    | (___  _   _| |__ | |  | | ___  _ __ ___   __ _ _ _ __  _ _______ _ __ 
+     \___ \| | | | '_ \| |  | |/ _ \| '_ ` _ \ / _` | | '_ \| |_  / _ \ '__|
+     ____) | |_| | |_) | |__| | (_) | | | | | | (_| | | | | | |/ /  __/ |   
+    |_____/ \__,_|_.__/|_____/ \___/|_| |_| |_|\__,_|_|_| |_|_/___\___|_|Version 2.1                                                                                                                                       
+Find interesting Subdomains and secrets hidden in page, folder, External Javascripts and GitHub 
+
+Searching for Inline Javascripts...
+Successfully got all the Inline Scripts.
+Searching for External Javascript links in page...
+Successfully got all the external js links.
+Finding secrets, cloud URLs, subdomains in all Javascript files...
+Searching completed...
+Got all the important, printing and/or saving...
+
+______________________Start of Results______________________
+____________________________________________________________
+
+Got some subdomains...
+Total Subdomains: 19
+about.facebook.com
+ar-ar.facebook.com
+bn-in.facebook.com
+de-de.facebook.com
+developers.facebook.com
+en-gb.facebook.com
+es-la.facebook.com
+fa-ir.facebook.com
+gu-in.facebook.com
+hi-in.facebook.com
+lookaside.internmc.facebook.com
+lookaside.facebook.com
+pa-in.facebook.com
+pay.facebook.com
+pixel.facebook.com
+portal.facebook.com
+ps-af.facebook.com
+secure.facebook.com
+www.facebook.com
+
+_______________________End of Results_______________________
+
